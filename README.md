@@ -1,2 +1,2 @@
-# coexistence-of-syncs-in-eeg
-Computation of the coexistence of synchronisations in EEG time traces and its associated functional networks.
+# coexistence-of-sync-eeg
+Computation of coexistence of synchronizations in EEG data taken from PhysioBank.
