@@ -5,4 +5,4 @@ Computation of coexistence of synchronizations in EEG data taken from PhysioBank
 
 1. Install requirements.txt
 
-2. Run jupyter notebook with instructions inside
+2. Run jupyter notebook ```run_coexistence_pipeline.ipynb``` with instructions inside
